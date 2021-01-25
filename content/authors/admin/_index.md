@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Adrien Fillon
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Doctorant en Psychologie sociale
 
 # Organizations/Affiliations
 organizations:
