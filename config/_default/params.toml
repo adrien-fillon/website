@@ -89,11 +89,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "10 rue félicien david", city = "St-Germain-en-Laye", region = "IDF", postcode = "78100", country = "France", country_code = "FR"}
+address = {street = "1 parvis de la Défense", city = "Puteaux", region = "IDF", postcode = "92044", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "48.889094", longitude = "2.091825"}
+coordinates = {latitude = "48.892176", longitude = "2.236778"}
 
 # Directions for visitors to locate you.
 directions = ""
