@@ -10,22 +10,29 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Psychologue Clinicienne
+role: Clinician psychologist
 
 # Organizations/Affiliations
 organizations:
 - name: Mindler
   url: "https://mindlercare.com/fr/"
 
-bio: "Armelle est une psychologue"
+bio: Clinician psychologist
 
 interests:
-- Problèmes de sommeil
+- sleep trouble
+- chronical pain
+- Depression
+- Panic attack
+- Stress
+- Phobia
+- Self esteem
+- Self confidence
 
 education:
   courses:
-  - course: Master Psychologie clinique et psychopathologie empirique et cognitivo-comportementale
-    institution: Université de Nanterre
+  - course: Master clinical psychology and cognitive behavioural therapy
+    institution: Nanterre University
     year: 2019
   - course: Formation aux thérapies familialles ...
     institution: XXX
@@ -57,3 +64,10 @@ highlight_name: false
 user_groups:
 - Deux psychologues
 ---
+Armelle Lagadec is a psychologist who proposed a 
+
+est une psychologue proposant une écoute bienveillante et chaleureuse afin de vous accompagner activement à surmonter vos difficultés et aller vers le mieux-être recherché.
+
+Ses expériences en Maternité et auprès d’enfants en situation de handicap lui permettent de vous accompagner lors de la grossesse, dans votre parentalité et lors d’annonce de pathologie. 
+
+Ses expériences en cancérologie et réanimation apporteront un soutien si vous souffrez d’une maladie, si vous rencontrez des difficultés dans la place « d’aidant » ou si vous et vos proches, traversez une période de deuil.

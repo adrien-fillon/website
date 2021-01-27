@@ -17,10 +17,17 @@ organizations:
 - name: Mindler
   url: "https://mindlercare.com/fr/"
 
-bio: Armelle est une psychologue
+bio: Armelle est psychologue clinicienne experte en thérapie cognitivo-comportementale.
 
 interests:
 - Problèmes de sommeil
+- Douleur chronique
+- Dépression
+- Trouble panique
+- Stress
+- Phobie
+- Estime de soi
+- Confiance en soi
 
 education:
   courses:
@@ -57,3 +64,9 @@ highlight_name: false
 user_groups:
 - Deux psychologues
 ---
+
+Armelle Lagadec est une psychologue proposant une écoute bienveillante et chaleureuse afin de vous accompagner activement à surmonter vos difficultés et aller vers le mieux-être recherché.
+
+Ses expériences en Maternité et auprès d’enfants en situation de handicap lui permettent de vous accompagner lors de la grossesse, dans votre parentalité et lors d’annonce de pathologie. 
+
+Ses expériences en cancérologie et réanimation apporteront un soutien si vous souffrez d’une maladie, si vous rencontrez des difficultés dans la place « d’aidant » ou si vous et vos proches, traversez une période de deuil.

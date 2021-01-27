@@ -6,7 +6,7 @@ title: Adrien Fillon
 superuser: true
 
 # Role/position
-role: Doctorant en Psychologie sociale/ Social Psychology PhD student
+role: Social Psychology PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -71,4 +71,4 @@ user_groups:
 - Deux psychologues
 ---
 
-Adrien Fillon est psychologue et doctorant en psychologie. Ses domaines de travail concernent la recherche reproductible en psychologie, à travers des réplications et des méta-analyses. Il s'intéresse particulièrement aux domaines de jugement et prise de décision, créativité de groupe et gamification dans les formations adultes. Membre du café des sciences, Adrien possède une chaîne youtube de vulgarisation scientifique ainsi que de nombreuses publications sur les réseaux sociaux sur l'actualité de la recherche en psychologie.
+Adrien Fillon is a psychologist and PhD student in social psychology at the university of Aix-Marseille, France. His research interests include FAIR (Findable, Accessible, Interoperable, Reusage) science, particularly in meta-analysis of social constructs; judgment and decision making, gamification for adult learning, and group creativity.
