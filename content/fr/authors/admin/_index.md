@@ -6,7 +6,7 @@ title: Adrien Fillon
 superuser: true
 
 # Role/position
-role: Doctorant en Psychologie sociale/ Social Psychology PhD student
+role: Doctorant en Psychologie sociale
 
 # Organizations/Affiliations
 organizations:
@@ -17,23 +17,23 @@ organizations:
 bio: My research interests include FAIR (Findable, Accessible, Interoperable, Reusage) science, particularly in meta-analysis of social constructs; judgment and decision making, gamification for adult learning, and group creativity.
 
 interests:
-- Meta-analysis
-- Systematic review
+- Meta-analyse
+- Revue systématique
 - R
-- Judgment and decision making
-- Creativity
+- Jugement et prise de décision
+- Créativité
 - Gamification
 
 education:
   courses:
-  - course: PhD in Social psychology
-    institution: Aix-Marseille University
+  - course: Doctorant en psychologie sociale
+    institution: Université Aix-Marseille
     year: 2019-2022
-  - course: Master in social psychology
-    institution: Nanterre University
+  - course: Maîtrise en psychologie sociale
+    institution: Université de Nanterre
     year: 2018
-  - course: Bachelor's degree
-    institution: Nanterre University
+  - course: Licence en psychologie
+    institution: Université de Nanterre
     year: 2016
 
 # Social/Academic Networking

@@ -64,10 +64,8 @@ highlight_name: false
 user_groups:
 - Deux psychologues
 ---
-Armelle Lagadec is a psychologist who proposed a 
+Armelle Lagadec is a psychologist offering a benevolent and warm listening. She actively accompany you to overcome your difficulties and move towards the desired well-being.
 
-est une psychologue proposant une écoute bienveillante et chaleureuse afin de vous accompagner activement à surmonter vos difficultés et aller vers le mieux-être recherché.
+Her experiences in Maternity and with children with disabilities allow her to support you during pregnancy, in your parenthood and when announcing pathology.
 
-Ses expériences en Maternité et auprès d’enfants en situation de handicap lui permettent de vous accompagner lors de la grossesse, dans votre parentalité et lors d’annonce de pathologie. 
-
-Ses expériences en cancérologie et réanimation apporteront un soutien si vous souffrez d’une maladie, si vous rencontrez des difficultés dans la place « d’aidant » ou si vous et vos proches, traversez une période de deuil.
+Her experiences in oncology and intensive care will provide support if you are suffering from an illness, if you are having difficulty in being a "caregiver" or if you and your loved ones are going through a period of mourning.
