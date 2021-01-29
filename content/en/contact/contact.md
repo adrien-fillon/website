@@ -29,4 +29,6 @@ design:
   columns: '1'
 ---
 
-You can contact us for ...
+You can email me directly at : adrienfillon@hotmail.fr
+
+Or use the following form:

@@ -29,4 +29,5 @@ design:
   columns: '1'
 ---
 
-Vous pouvez nous contacter pour ...
+Vous pouvez nous contacter directement à adrienfillon@hotmail.fr 
+Ou en utilisant le formulaire suivant :
