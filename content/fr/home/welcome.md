@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-Deux psychologues est un site internet où deux psychologues, un clinicien et un chercheur, se rencontrent pour publier des études scientifiques, des articles vulgarisés et aider ceux quicherchent à mieux comprendre comment fonctionne l'esprit humain.
+Deux psychologues est un site internet où deux psychologues, un clinicien et un chercheur, se rencontrent pour publier des études scientifiques, des articles vulgarisés et aider ceux qui cherchent à mieux comprendre comment fonctionne l'esprit humain.
