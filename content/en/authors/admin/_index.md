@@ -14,13 +14,14 @@ organizations:
   url: "https://lps-aix.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include FAIR (Findable, Accessible, Interoperable, Reusage) science, particularly in meta-analysis of social constructs; judgment and decision making, gamification for adult learning, and group creativity.
+bio: My research interests include FAIR (Findable, Accessible, Interoperable, Reusage) science, particularly in meta-analysis of social constructs; judgment and decision making, free will, gamification for adult learning, and group creativity.
 
 interests:
 - Meta-analysis
 - Systematic review
 - R
 - Judgment and decision making
+- Free will beliefs
 - Creativity
 - Gamification
 

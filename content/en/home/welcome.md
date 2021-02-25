@@ -17,4 +17,3 @@ advanced:
   css_class:
 ---
 
-Deux psychologues is a website where two psychologists, a clinician and a researcher, meet to publish scientific work, vulgarisation and help to everyone who wants to understand better how the mind works.
