@@ -35,3 +35,6 @@ Please replace the demo images with your own.
 
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-research-group/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+
+# to build the server, use hugo server
+# to clean cache, use hugo mod clean
