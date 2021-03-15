@@ -12,13 +12,11 @@ title: Conseils aux doctorants
 # Section subtitle
 subtitle:
 
-# Section design
 design:
-  # Use a 1-column layout
-  columns: "1"
-  # Use a dark navy background with light text.
   background:
-    color: 'navy'
+    gradient_start: '#4bb4e3'
+    gradient_end: '#2b94c3'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 ---
 
