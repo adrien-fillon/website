@@ -22,5 +22,5 @@ design:
     text_color_light: true
 ---
 
-Machine learning avec R by [Gagolewski](https://lmlcr.gagolewski.com/lmlcr.pdf)  
+Machine learning avec R par [Gagolewski](https://lmlcr.gagolewski.com/lmlcr.pdf)  
 Oublier Word, PowerPoint Stata, SPSS etc.. en utilisant [uniquement Rmarkdown](https://t.co/XslvbMblbR?amp=1)  
