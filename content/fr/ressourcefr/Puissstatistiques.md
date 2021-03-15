@@ -5,10 +5,10 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 2
+weight: 5
 
 # Section title
-title: Recherche générale
+title: puissance statistique
 # Section subtitle
 subtitle:
 
