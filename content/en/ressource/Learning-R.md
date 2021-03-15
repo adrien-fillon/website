@@ -24,3 +24,4 @@ design:
 ---
 
 Machine learning with R by [Gagolewski](https://lmlcr.gagolewski.com/lmlcr.pdf)
+Never touch to Word, PowerPoint Stata, SPSS etc. anymore in using [only Rmarkdown](https://t.co/XslvbMblbR?amp=1)

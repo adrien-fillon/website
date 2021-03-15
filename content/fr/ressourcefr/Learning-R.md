@@ -23,3 +23,4 @@ design:
 ---
 
 Machine learning avec R by [Gagolewski](https://lmlcr.gagolewski.com/lmlcr.pdf)
+Oublier Word, PowerPoint Stata, SPSS etc.. en utilisant [uniquement Rmarkdown](https://t.co/XslvbMblbR?amp=1)
