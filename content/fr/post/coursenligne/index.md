@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "l'ère de la formation à distance "
+title: "L'ère de la formation à distance "
 subtitle: ""
 summary: ""
 authors: []

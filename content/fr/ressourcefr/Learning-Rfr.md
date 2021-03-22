@@ -38,7 +38,7 @@ design:
 - Modifier la disposition des graphiques [en patchwork sous R](https://twitter.com/reimthyme/status/1248246541845839872)  
 - Ecrire entièrement un article [sous R?](https://twitter.com/dsquintana/status/1152178215731040257)  
 - Un live sur l'exploration de données [sous R](https://twitter.com/dsquintana/status/1136347621247705088)  
-Plein de manières de visualiser des [corrélations](https://twitter.com/giladfeldman/status/1284452147703083010)  
+- Plein de manières de visualiser des [corrélations](https://twitter.com/giladfeldman/status/1284452147703083010)  
 - Easystats pour rendre simple [les analyses sous R](https://easystats.github.io/easystats/)  
 - Faire des SEM TIDY parce que [pourquoi pas](https://cjvanlissa.github.io/tidySEM/)  
 - Cheatsheets [sur R](https://rstudio.com/resources/cheatsheets/)  
