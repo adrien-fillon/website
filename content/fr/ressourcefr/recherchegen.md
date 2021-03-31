@@ -47,4 +47,4 @@ design:
 - GSscrapper pour télécharger les données automatiquement de [Google Scholar](https://github.com/nealhaddaway/GSscraper)  
 - Comment créer rapidement un [rapport PRISMA](https://srflowdiagram.github.io/)  
 - Vous aimez SPSS ? Vous aimerez encore plus son alternative gratuite, [PSPP](https://www.gnu.org/software/pspp/)  
-
+- Une IA qui sort une phrase d'[un résumé](https://scitldr.apps.allenai.org/) 
