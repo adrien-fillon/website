@@ -1,6 +1,6 @@
 ---
 title: Time wasted on internet
-date: 2021-04-04
+date: 2021-04-02
 image:
   placement: 1
   caption: "internet time wasted"
