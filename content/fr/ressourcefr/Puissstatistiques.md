@@ -26,4 +26,4 @@ design:
 - Un guide sur twitter pour faire une [analyse de puissance](https://twitter.com/dsquintana/status/1166987952049786885)  
 - Puissance statistiques et [taille d'échantillon](https://twitter.com/dsquintana/status/959906463387996166)  
 - Un guide collaboratif à l'utilisation de la [puissance statistique](https://docs.google.com/document/d/1_vNjPCI7H52T8tav1reYgWx6puMT03JZVY1wvEPHrWU/edit#heading=h.cio6ffg3dxog)  
-
+- Comment utiliser (Gpower)[http://www.mormonsandscience.com/gpower-guide.html]

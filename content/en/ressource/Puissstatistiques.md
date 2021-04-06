@@ -26,4 +26,4 @@ design:
 - A twitter guide to [make a power analysis](https://twitter.com/dsquintana/status/1166987952049786885)  
 - Statistical power and [sample size](https://twitter.com/dsquintana/status/959906463387996166)  
 - A collaborative guide for the use of [statistical power](https://docs.google.com/document/d/1_vNjPCI7H52T8tav1reYgWx6puMT03JZVY1wvEPHrWU/edit#heading=h.cio6ffg3dxog)  
-
+- How to use (Gpower)[http://www.mormonsandscience.com/gpower-guide.html]

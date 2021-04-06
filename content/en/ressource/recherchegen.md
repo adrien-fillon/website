@@ -47,5 +47,6 @@ design:
 - GSscrapper to automatically download data from [Google Scholar](https://github.com/nealhaddaway/GSscraper)  
 - How to easily create a [PRISMA report](https://srflowdiagram.github.io/)  
 - You like SPSS? You will like more its free alternative, [PSPP](https://www.gnu.org/software/pspp/) 
-- An IA to make one sentence out of [an abstract](https://scitldr.apps.allenai.org/) 
+- An IA to make one sentence out of [an abstract](https://scitldr.apps.allenai.org/)
+- A critic about (multiverse analysis)[http://www.the100.ci/2021/03/07/mulltiverse-analysis/]
 

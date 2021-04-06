@@ -48,3 +48,4 @@ design:
 - Comment créer rapidement un [rapport PRISMA](https://srflowdiagram.github.io/)  
 - Vous aimez SPSS ? Vous aimerez encore plus son alternative gratuite, [PSPP](https://www.gnu.org/software/pspp/)  
 - Une IA qui sort une phrase d'[un résumé](https://scitldr.apps.allenai.org/) 
+- Une critique sur l'(analyse multivariée)[http://www.the100.ci/2021/03/07/mulltiverse-analysis/]
