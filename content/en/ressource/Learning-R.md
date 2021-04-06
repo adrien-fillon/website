@@ -49,4 +49,4 @@ design:
 - Copy-Paste in R with [datapasta](https://milesmcbain.github.io/datapasta/)  
 - Make reproducible code great again with [Groundhog](https://groundhogr.com/)  
 - A package to directly write a [statistical report](https://github.com/easystats/report)
-- Tutorial for Performing Power Analysis in Multilevel Regression Models That Account for (Temporal Dependencies)[https://journals.sagepub.com/doi/full/10.1177/2515245920978738]
+- Tutorial for Performing Power Analysis in Multilevel Regression Models That Account for [Temporal Dependencies](https://journals.sagepub.com/doi/full/10.1177/2515245920978738)

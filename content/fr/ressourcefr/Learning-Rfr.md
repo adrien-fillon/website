@@ -49,4 +49,4 @@ design:
 - Copier coller rapidement du R avec [datapasta](https://milesmcbain.github.io/datapasta/)  
 - Rendre un code reproductible avec [Groundhog](https://groundhogr.com/)  
 - Un package pour avoir directement écrit son [rapport statistique](https://github.com/easystats/report)  
-- un tutoriel sur les analyses mixtes sur (données longitudinales)[https://journals.sagepub.com/doi/full/10.1177/2515245920978738]
+- un tutoriel sur les analyses mixtes sur [données longitudinales](https://journals.sagepub.com/doi/full/10.1177/2515245920978738)
