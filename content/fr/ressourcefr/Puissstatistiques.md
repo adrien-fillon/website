@@ -8,7 +8,7 @@ headless: true
 weight: 5
 
 # Section title
-title: puissance statistique
+title: Puissance statistique
 # Section subtitle
 subtitle:
 
