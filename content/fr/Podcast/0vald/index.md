@@ -53,10 +53,6 @@ links:
     icon: youtube
     name: Youtube
     url: 'https://www.youtube.com/channel/UC0HGcgZkpxmkFxYSctLsE2Q'
-  - icon_pack: fab
-    icon: youtube
-    name: Youtube
-    url: 'https://www.youtube.com/channel/UC0HGcgZkpxmkFxYSctLsE2Q'
 ---
 
 Bienvenue dans cet épisode pilote du podcast 16par16 sur l'évolution des textes de Vald. Vous pouvez écouter le podcast dans votre application favorite avec les nombreux liens ci-dessus mais aussi directement avec le flux rss en dessous. n'hésitez pas à nous faire des retours afin que nous puissions nous améliorer pour le prochain podcast. Bonne écoute !
