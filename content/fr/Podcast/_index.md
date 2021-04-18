@@ -9,7 +9,7 @@ view: 3
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  placement: 1
   image: 16par16.png
   image_position: center
 ---
