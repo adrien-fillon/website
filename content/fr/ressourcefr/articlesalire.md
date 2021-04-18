@@ -8,7 +8,7 @@ headless: true
 weight: 6
 
 # Section title
-title: Articles A lire
+title: Articles à lire
 # Section subtitle
 subtitle:
 
