@@ -29,11 +29,11 @@ links:
     icon: google
     name: Google
     url: 'https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NjA4YjU2NC9wb2RjYXN0L3Jzcw/episode/YTg3OWE3ZDQtM2NiZC00MTJlLWI2MmYtYWY0NzhkOTcxMWY1?sa=X&ved=0CAUQkfYCahcKEwi49NyckIjwAhUAAAAAHQAAAAAQAQ'
-  - icon_pack: fab
+  - icon_pack: fas
     icon: microphone
     name: Pocket Cast
     url: 'https://pca.st/aeki6t20'
-  - icon_pack: fab
+  - icon_pack: fas
     icon: broadcast-tower
     name: Radio Public
     url: 'https://radiopublic.com/16par16-Gmnom2'
