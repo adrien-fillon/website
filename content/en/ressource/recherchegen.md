@@ -48,5 +48,7 @@ design:
 - How to easily create a [PRISMA report](https://srflowdiagram.github.io/)  
 - You like SPSS? You will like more its free alternative, [PSPP](https://www.gnu.org/software/pspp/) 
 - An IA to make one sentence out of [an abstract](https://scitldr.apps.allenai.org/)
-- A critic about [multiverse analysis](http://www.the100.ci/2021/03/07/mulltiverse-analysis/)
-
+- A critic about [multiverse analysis](http://www.the100.ci/2021/03/07/mulltiverse-analysis/)  
+- What is a [DF](http://www.rondotsch.nl/degrees-of-freedom/)  
+- Get the best [vizualisation for your data](https://www.data-to-viz.com/)  
+- Cheatsheet for [machine learning](https://sites.google.com/view/datascience-cheat-sheets)
