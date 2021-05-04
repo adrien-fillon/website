@@ -50,4 +50,5 @@ design:
 - Make reproducible code great again with [Groundhog](https://groundhogr.com/)  
 - A package to directly write a [statistical report](https://github.com/easystats/report)
 - Tutorial for Performing Power Analysis in Multilevel Regression Models That Account for [Temporal Dependencies](https://journals.sagepub.com/doi/full/10.1177/2515245920978738)
-- Do magnificent R tables [with stargazer](https://ignacioriveros1.github.io/r/2021/03/25/stargazer-for-amazing-academic-tables.html)
+- Do magnificent R tables [with stargazer](https://ignacioriveros1.github.io/r/2021/03/25/stargazer-for-amazing-academic-tables.html)  
+- Make APA ready tables with [GTsummary](https://github.com/ddsjoberg/gtsummary)
