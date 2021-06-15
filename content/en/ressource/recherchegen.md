@@ -52,3 +52,4 @@ design:
 - What is a [DF](http://www.rondotsch.nl/degrees-of-freedom/)  
 - Get the best [vizualisation for your data](https://www.data-to-viz.com/)  
 - Cheatsheet for [machine learning](https://sites.google.com/view/datascience-cheat-sheets)
+- Create posters, postal cards and documents from our [GGplots: GGirl](https://github.com/jnolis/ggirl)

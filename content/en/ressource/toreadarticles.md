@@ -21,3 +21,4 @@ design:
 ---
 
 - A field study found an effect 17x lower than in laboratory about [nutrition score](https://doi.org/10.1007/s11747-020-00723-5)
+- Civil disobedience in scientific authorship: [Resistance and insubordination in science](https://www.tandfonline.com/doi/full/10.1080/08989621.2020.1756787?fbclid=IwAR16KTqdZE6g6yplVytfpHLSgmVnrpzAREq4yrMcTBahTA1w8a9O5uvDefI)

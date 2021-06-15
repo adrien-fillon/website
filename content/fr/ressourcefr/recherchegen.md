@@ -53,3 +53,4 @@ design:
 - Trouve la meilleure [visualisation pour tes données](https://www.data-to-viz.com/)  
 - Cheatsheet sur le [machine learning](https://sites.google.com/view/datascience-cheat-sheets)
 - Faire des tables R magnifiques [avec stargazer](https://ignacioriveros1.github.io/r/2021/03/25/stargazer-for-amazing-academic-tables.html)
+- faire des posters, cartes postales et documents à partir de ses [GGplots: GGirl](https://github.com/jnolis/ggirl)

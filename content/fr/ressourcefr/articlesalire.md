@@ -21,3 +21,4 @@ design:
 ---
 
 - Une comparaison entre laboratoire et recherche appliquée montre un effet 17x inférieur en condition réelle [sur le nutriscore](https://doi.org/10.1007/s11747-020-00723-5)
+- Une liste des techniques pour trouver [qui sera le premier auteur](https://www.tandfonline.com/doi/full/10.1080/08989621.2020.1756787?fbclid=IwAR16KTqdZE6g6yplVytfpHLSgmVnrpzAREq4yrMcTBahTA1w8a9O5uvDefI)
